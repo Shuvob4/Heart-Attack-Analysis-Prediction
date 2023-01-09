@@ -1,4 +1,7 @@
 # Heart-Attack-Analysis-Prediction
+
+Dataset was collected from : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset.
+
 In this project, I will go through all the steps necessary for predicting heart attack chance for a patient. 
 The steps include:  
 1. Data Cleaning: missing values with statistical analysis as well as detect outliers
